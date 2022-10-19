@@ -11,4 +11,4 @@ public class Task2 {
 		System.out.println("Short = " + Short.MAX_VALUE);
 	}
 }
-//*dvdvd
+//*dvdv
