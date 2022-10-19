@@ -13,3 +13,4 @@ public class Task1 {
 		double d =10.2225;
 	}
 }
+//*dvdvd
